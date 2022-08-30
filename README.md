@@ -1,6 +1,7 @@
 ## Node version
-
+```sh
 node version 16.15.0
+```
 
 ## Project Setup
 
